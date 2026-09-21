@@ -4,14 +4,6 @@ This is the shared AI usage policy for Moby and Docker open source projects.
 It sets the baseline for AI-assisted issues, pull requests, and discussion
 across repositories.
 
-Repos can link to this document directly, or keep a synced copy next to
-their own `CONTRIBUTING.md` / `AGENTS.md`. They can also tighten any rule
-below to fit their own workflow, for example requiring a
-maintainer-approved issue before an AI-assisted PR gets accepted (see
-[Approved issues for AI-assisted PRs](#approved-issues-for-ai-assisted-prs)).
-If a repo's own policy is stricter, follow that one instead; this is the
-floor, not the ceiling.
-
 - **Disclose AI usage.** Say what you used: Copilot, Claude Code, Cursor,
   ChatGPT, whatever, and roughly how much of the work it did, in the issue
   or PR description. If it's not disclosed and a maintainer suspects
